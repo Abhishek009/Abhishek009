@@ -1,5 +1,4 @@
-Hi 👋
-- I’m Abhishek Singh
+Hi there👋
 - 👀 I’m interested in Big Data
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me abhisheksingh2009iu@gmail.com
